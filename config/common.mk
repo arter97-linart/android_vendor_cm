@@ -186,6 +186,16 @@ PRODUCT_PACKAGES += \
     sqlite3 \
     strace
 
+# Extra tools added by @arter97
+PRODUCT_PACKAGES += \
+    axel \
+    file \
+    magic.mgc \
+    7za \
+    libgnustl_shared.so \
+    zipalign \
+    wget
+
 # Openssh
 PRODUCT_PACKAGES += \
     scp \
