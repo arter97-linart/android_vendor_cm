@@ -194,7 +194,8 @@ PRODUCT_PACKAGES += \
     7za \
     libgnustl_shared.so \
     zipalign \
-    wget
+    wget \
+    nginx
 
 # Openssh
 PRODUCT_PACKAGES += \
