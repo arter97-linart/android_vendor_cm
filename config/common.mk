@@ -191,7 +191,14 @@ PRODUCT_PACKAGES += \
     libgnustl_shared.so \
     zipalign \
     wget \
-    nginx
+    wgetrc \
+    nginx \
+    nginx.conf \
+    EMPTY_DIRECTORY1 \
+    EMPTY_DIRECTORY2 \
+    EMPTY_DIRECTORY3 \
+    EMPTY_DIRECTORY4 \
+    EMPTY_DIRECTORY5
 
 # Openssh
 PRODUCT_PACKAGES += \
